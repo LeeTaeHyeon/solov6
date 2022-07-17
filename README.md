@@ -99,15 +99,6 @@
   - Notion 
   - Figma
 
-# Repositories
-| Name                                                           | description      |
-|----------------------------------------------------------------|------------------|
-| [modeling](https://github.com/SOLOv6/modeling)                 | 모델 관련            |
-| [model-serving](https://github.com/SOLOv6/model-serving)       | 모델 serve 관련      |
-| [Flask-User](https://github.com/SOLOv6/Flask-User)             | Flask-User       |
-| [Flask-admin](https://github.com/SOLOv6/Flask-admin)           | Flask-admin      |
-| [GCF-http-trigger](https://github.com/SOLOv6/GCF-http-trigger) | gcs-trigger      |
-
 # Demo
 ![demo](/images/demo.gif)
 
